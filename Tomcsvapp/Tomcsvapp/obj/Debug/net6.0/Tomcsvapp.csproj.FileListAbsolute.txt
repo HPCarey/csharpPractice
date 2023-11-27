@@ -1,0 +1,14 @@
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\bin\Debug\net6.0\Tomcsvapp.exe
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\bin\Debug\net6.0\Tomcsvapp.deps.json
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\bin\Debug\net6.0\Tomcsvapp.runtimeconfig.json
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\bin\Debug\net6.0\Tomcsvapp.dll
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\bin\Debug\net6.0\Tomcsvapp.pdb
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.AssemblyInfoInputs.cache
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.AssemblyInfo.cs
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.csproj.CoreCompileInputs.cache
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.dll
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\refint\Tomcsvapp.dll
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.pdb
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\Tomcsvapp.genruntimeconfig.cache
+C:\Users\ICTLearner02\source\repos\Tomcsvapp\Tomcsvapp\obj\Debug\net6.0\ref\Tomcsvapp.dll
